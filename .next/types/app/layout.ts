@@ -1,4 +1,4 @@
-// File: C:\Users\MOHD UMAIR\bluecut\app\layout.js
+// File: c:\Users\MOHD UMAIR\bluecut\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
