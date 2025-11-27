@@ -1,4 +1,4 @@
-// File: c:\Users\MOHD UMAIR\bluecut\app\badges\page.js
+// File: /workspaces/bluecut-scanner/app/badges/page.js
 import * as entry from '../../../../app/badges/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
