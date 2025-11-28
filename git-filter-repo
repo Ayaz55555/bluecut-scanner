@@ -208,7 +208,7 @@ class AncestryGraph(object):
   A class that maintains a direct acycle graph of commits for the purpose of
   determining if one commit is the ancestor of another.
 
-  A note about identifiers in Commit objects:
+  A note about identifiers in Commit object:
     * Commit objects have 2 identifiers: commit.old_id and commit.id, because:
     * The original fast-export stream identified commits by an identifier.
       This is often an integer, but is sometimes a hash (particularly when
