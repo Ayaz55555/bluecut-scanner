@@ -11,7 +11,7 @@ in order to make it into a well-rounded filtering tool.
 git-filter-repo can also be used as a library for more involved filtering
 operations; however:
   ***** API BACKWARD COMPATIBILITY CAVEAT *****
-  Programs using git-filter-repo as a library can reach pretty far into its
+  Programs using git-filter-repo as a library can reach pretty far into it
   internals, but I am not prepared to guarantee backward compatibility of
   all APIs.  I suspect changes will be rare, but I reserve the right to
   change any API.  Since it is assumed that repository filtering is
