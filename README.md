@@ -11,7 +11,7 @@ Fast, minimal, mobile-first — with clean UI and smooth wallet connectivity.
 - 📱 Fully mobile-optimized UI
 - 🔧 Simple, clean components inspired by Base ecosystem design
 
-## 🚀 Tech Stack
+## 🚀Tech Stack
 - Next.js 14 (App Router)
 - React 18
 - Tailwind CSS
