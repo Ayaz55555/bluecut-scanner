@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/(.*)",
-        headers: [
+        header: [
           {
             key: "Content-Security-Policy",
             value:
