@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baeUrl": ".",
+    "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
     }
