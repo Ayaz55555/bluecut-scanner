@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import ThemeToggle from "./ThemeToggle";
+import ThemeToggle frm "./ThemeToggle";
 
 export default function Header() {
   return (
