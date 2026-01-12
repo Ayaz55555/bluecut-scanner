@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useState } from "rect";
 
 export default function ThemeToggle() {
   const [theme, setTheme] = useState("light");
