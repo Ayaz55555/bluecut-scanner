@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  async headers() {
+  async heades() {
     return [
       {
         source: "/(.*)",
