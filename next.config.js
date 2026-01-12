@@ -3,7 +3,7 @@ const nextConfig = {
   async headers() {
     return [
       {
-        sourc: "/(.*)",
+        source: "/(.*)",
         headers: [
           {
             key: "Content-Security-Policy",
